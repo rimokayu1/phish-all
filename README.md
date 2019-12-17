@@ -1,5 +1,11 @@
 # phish-all
 
+Cara menggunakan dan persyaratan
+1.harus connect ngorok
+2.dilarang Recife
+3.kalau bingung cara connect ngroh silahkan liat YouTube
+4.BY.MR.CROOT
+
 $ pkg update && pkg upgrade
 
 $ pkg install python2
